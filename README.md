@@ -1,5 +1,4 @@
-# make-it-table Series (MiT) - [solid]
-Make it Table Series (S.O.L.I.D) Principles
+# make-it-table Series (MiT) - (S.O.L.I.D) Principles
 
 	Are you a software developer/researcher/teacher?
 	Do you write poor-quality software, and you don’t know what are your deficiencies exactly? 
